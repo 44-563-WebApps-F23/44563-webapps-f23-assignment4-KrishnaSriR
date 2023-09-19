@@ -1,0 +1,22 @@
+.speech{
+    font-style:normal;
+    font-size: medium;
+    color:black;
+}
+.direction{
+    font-style: italic;
+    font-size: small;
+    color:black;
+    background-color: beige;
+}
+.direction:hover{
+    background-color: aqua;
+    color: brown;
+}
+.ENGSTRAND{
+    color:aquamarine;
+}
+.REGINA{
+    color:blueviolet;
+}
+
