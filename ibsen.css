@@ -20,3 +20,21 @@
     color:blueviolet;
 }
 
+table{
+    border: dashed 4px;
+    overflow: auto;
+    margin:50px;
+    padding: 7px;
+}
+td, th{
+    border: solid 2px;
+    text-align: center;  
+    padding : 15px;
+}
+tr{
+    background-color: palegreen;
+}
+tr:nth-child(odd){
+    background-color: palevioletred;
+}
+
