@@ -15,6 +15,7 @@
 }
 .ENGSTRAND{
     color:aquamarine;
+
 }
 .REGINA{
     color:blueviolet;
@@ -36,5 +37,12 @@ tr{
 }
 tr:nth-child(odd){
     background-color: palevioletred;
+}
+.ENGSTRAND:hover{
+    text-shadow:  2px 4px 4px hotpink;
+}
+.REGINA:hover{
+    text-shadow: 2px 4px 4px gold;
+    
 }
 
