@@ -45,4 +45,26 @@ tr:nth-child(odd){
     text-shadow: 2px 4px 4px gold;
     
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  
+  }
+ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:palevioletred;
+  }
+  
+  ul.navbar-horizontal a {
+    display:flex;
+    color: black;
+    padding:10px
+  }
+  
+  ul.navbar-horizontal a:hover {  
+    background-color: burlywood;
+    color:white;
+  }
 
