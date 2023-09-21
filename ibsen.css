@@ -13,6 +13,9 @@
     background-color: aqua;
     color: brown;
 }
+.name{
+    color:black;
+}
 .ENGSTRAND{
     color:aquamarine;
 
@@ -20,6 +23,11 @@
 .REGINA{
     color:blueviolet;
 }
+
+
+
+
+
 
 table{
     border: dashed 4px;
